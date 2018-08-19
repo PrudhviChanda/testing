@@ -1,1 +1,4 @@
-this is my dummy file for the testing purpose
+#!/bin/bash
+
+echo ("HELLO WORLD")
+
