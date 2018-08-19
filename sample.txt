@@ -1,0 +1,17 @@
+q
+clear
+
+end
+mkwmklwc
+finnish
+exit
+-w
+-q
+
+:wq
+:q
+-q
+exit
+quit
+i
+ okay i am in trouble
